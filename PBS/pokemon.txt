@@ -19204,7 +19204,7 @@ Pokedex=Burboos used to be called a different name, but it conflicted with a pre
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=NESKOO,Level,19
+Evolutions=NESKOO,Level,20
 #-------------------------------
 [657]
 Name=Neskoo
@@ -19317,7 +19317,7 @@ Name=Magnafly
 InternalName=MAGNAFLY
 Type1=BUG
 Type2=FIRE
-BaseStats=88,79,72,84,103,90
+BaseStats=97,88,72,89,103,90
 GenderRate=Female50Percent
 GrowthRate=Parabolic
 BaseEXP=390
@@ -19524,7 +19524,7 @@ Pokedex=This Shrimpy boy needs some hot sauce.
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=SHRIMPAD,Level,19
+Evolutions=SHRIMPAD,Level,23
 #-------------------------------
 [669]
 Name=Shrimpad
@@ -19551,7 +19551,7 @@ Pokedex=Shrimpads have the most audacious mating call known to Pokemonkind.
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=SHRIMPAD,Level,19
+Evolutions=
 #-------------------------------
 [670]
 Name=Zubat
@@ -19638,7 +19638,7 @@ Pokedex=If you step on a Peblock it'll almost hurt as much as stepping on a LEGO
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=DUGMITE,Level,20
+Evolutions=DUGMITE,Level,25
 #-------------------------------
 [673]
 Name=Dugmite
@@ -19768,7 +19768,7 @@ Pokedex=Hoglets enjoy eating bacon. Which is fucked up if you think about it.
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=WARHOG,Level,25
+Evolutions=WARHOG,Level,30
 #-------------------------------
 [678]
 Name=Warhog
@@ -19981,7 +19981,7 @@ Pokedex=???
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=HUMSHOCK,Level,22
+Evolutions=HUMSHOCK,Level,24
 #-------------------------------
 [686]
 Name=Humshock
@@ -20515,7 +20515,7 @@ Pokedex=Quackitts' only redeeming quality lies in its ability to use Water-Type 
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=GOOSTORK,Level,22
+Evolutions=GOOSTORK,Level,28
 #-------------------------------
 [706]
 Name=Goostork
@@ -20595,7 +20595,7 @@ Pokedex=Skreeshes let out a threatening shriek when they are in fact very very h
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
-Evolutions=BANCRY,Level,30
+Evolutions=BANCRY,Level,33
 #-------------------------------
 [709]
 Name=Bancry
@@ -20822,7 +20822,7 @@ EffortPoints=0,0,0,0,0,0
 Rareness=180
 Happiness=70
 Abilities=ADAPTABILITY
-Moves=1,TACKLE,3,ROCKPOLISH,9,SMACKDOWN,18,SANDSTORM,21,SWAGGER,22,STOMP,27,ROLLOUT,34,ZENHEADBUTT,39,STONEEDGE
+Moves=1,TACKLE,3,ROCKPOLISH,9,SMACKDOWN,18,SANDSTORM,21,SWAGGER,22,STOMP,27,ROLLOUT,34,IRONTAIL,39,STONEEDGE
 Compatibility=Field
 StepsToHatch=5355
 Height=1.9
@@ -20858,6 +20858,60 @@ Color=White
 Shape=8
 Kind=Frozen Sheep
 Pokedex=Baablizzes are very tired Pokemon, and are often stepped on when they become camoflagued in their snowy homes.
+BattlerPlayerY=0
+BattlerEnemyY=0
+BattlerAltitude=0
+Evolutions=
+#-------------------------------
+[719]
+Name=Talotuff
+InternalName=TALOTUFF
+Type1=FIGHTING
+Type2=FLYING
+BaseStats=64,88,64,74,55,55
+GenderRate=Female50Percent
+GrowthRate=Medium
+BaseEXP=95
+EffortPoints=0,0,0,0,0,0
+Rareness=180
+Happiness=70
+Abilities=MOXIE
+Moves=1,SCRATCH,4,LEER,8,FOCUSENERGY,11,KARATECHOP,16,GUST,20,FURYSWIPES,25,ACROBATICS,28,MACHPUNCH,33,SKYUPPERCUT
+Compatibility=Flying
+StepsToHatch=5355
+Height=2.1
+Weight=88
+Color=Purple
+Shape=9
+Kind=Avian Fighter
+Pokedex=A natural competitor for survival both in land and in the sky.
+BattlerPlayerY=0
+BattlerEnemyY=0
+BattlerAltitude=0
+Evolutions=EAGRUFF,Level,34
+#-------------------------------
+[720]
+Name=Eagruff
+InternalName=EAGRUFF
+Type1=FIGHTING
+Type2=FLYING
+BaseStats=88,112,90,93,63,70
+GenderRate=Female50Percent
+GrowthRate=Medium
+BaseEXP=230
+EffortPoints=0,0,0,0,0,0
+Rareness=70
+Happiness=70
+Abilities=MOXIE
+Moves=1,SCRATCH,4,LEER,8,FOCUSENERGY,11,KARATECHOP,16,GUST,20,FURYSWIPES,25,ACROBATICS,28,MACHPUNCH,33,SKYUPPERCUT,40,HIGHJUMPKICK,48,AURASPHERE,60,CLOSECOMBAT
+Compatibility=Flying
+StepsToHatch=5355
+Height=24.5
+Weight=88
+Color=Purple
+Shape=9
+Kind=Avian Competitor
+Pokedex=A victor that fights its foes on the ground in the air, and foes in the sky on land.
 BattlerPlayerY=0
 BattlerEnemyY=0
 BattlerAltitude=0
