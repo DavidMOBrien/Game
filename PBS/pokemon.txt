@@ -20836,7 +20836,7 @@ BattlerEnemyY=0
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
-[717]
+[718]
 Name=Baablizz
 InternalName=BAABLIZZ
 Type1=NORMAL
