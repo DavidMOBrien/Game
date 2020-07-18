@@ -21503,7 +21503,7 @@ Evolutions=
 #-------------------------------
 [743]
 Name=Blitzy
-InternalName=COBLAZE
+InternalName=BLITZY
 Type1=ELECTRIC
 Type2=FIRE
 BaseStats=85,50,40,55,45,75
