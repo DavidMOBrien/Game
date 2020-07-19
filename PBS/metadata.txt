@@ -412,3 +412,9 @@ ShowArea=true
 BattleBack=EliteB
 Dungeon=false
 ShowArea=true
+#-------------------------------
+[085]
+# Route III
+BattleBack=Forest
+Outdoor=true
+ShowArea=true
