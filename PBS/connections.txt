@@ -48,7 +48,9 @@
 81,West,4,78,East,0
 # Cygnus Town (43) - Route II (78)
 43,East,100,78,West,0
+# Taurus Town (86) - Route III (85)
+86,North,0,85,South,93
 # Leo Town (81) - Route III (85)
 81,East,0,85,West,6
-# Cygnus Town (43) - Route I (76)
-43,South,27,76,North,0
+# Route I (76) - Cygnus Town (43)
+76,North,0,43,South,27

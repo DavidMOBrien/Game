@@ -109,3 +109,4 @@
 106,BRONZEGRUNTM,Bronze Grunt,40,BronzeBattle.mp3,,,Male,,
 107,BRONZEGRUNTF,Bronze Grunt,40,BronzeBattle.mp3,,,Female,,
 108,GYMLEADER1,Flying Gym Leader,80,GymLeaderTheme.mp3,,,Female,,
+109,GYMLEADER2,Poison Gym Leader,85,GymLeaderTheme.mp3,,,Male,,

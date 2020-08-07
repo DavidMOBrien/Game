@@ -386,12 +386,21 @@ BattleBack=Forest
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[077]
+# Libra Town
+Outdoor=true
+ShowArea=true
+#-------------------------------
 [078]
 # Route II
 SnapEdges=false
 BattleBack=Forest
 Bicycle=true
 Outdoor=true
+ShowArea=true
+#-------------------------------
+[080]
+# Theta Cave
 ShowArea=true
 #-------------------------------
 [081]
@@ -417,4 +426,23 @@ ShowArea=true
 # Route III
 BattleBack=Forest
 Outdoor=true
+ShowArea=true
+#-------------------------------
+[086]
+# Taurus Town
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[087]
+# Taurus Town Inside
+#-------------------------------
+[088]
+# Tau Cave
+BattleBack=CaveDark
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[089]
+# 2nd Gym - Poison
+BattleBack=EliteD
 ShowArea=true
