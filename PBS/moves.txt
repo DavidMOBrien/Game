@@ -15,7 +15,7 @@
 15,DEFENDORDER,Defend Order,02A,0,BUG,Status,0,10,0,10,0,d,"The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats."
 16,HEALORDER,Heal Order,0D5,0,BUG,Status,0,10,0,10,0,d,"The user calls out its underlings to heal it. The user regains up to half of its max HP."
 17,QUIVERDANCE,Quiver Dance,02B,0,BUG,Status,0,20,0,10,0,d,"The user performs a beautiful dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats."
-18,RAGEPOWDER,Rage Powder,117,0,BUG,Status,0,20,0,10,3,l,"The user scatters irritating powder to draw attention to itself. Opponents aim only at the user."
+18,RAGEPOWDER,Rage Pow1,der,117,0,BUG,Status,0,20,0,10,3,l,"The user scatters irritating powder to draw attention to itself. Opponents aim only at the user."
 19,SPIDERWEB,Spider Web,0EF,0,BUG,Status,0,10,0,00,0,bce,"The user ensnares the target with thin, gooey silk so it can't flee from battle."
 20,STRINGSHOT,String Shot,04D,0,BUG,Status,95,40,0,04,0,bce,"The foe is bound with silk blown from the user's mouth. This silk reduces the target's Speed."
 21,TAILGLOW,Tail Glow,039,0,BUG,Status,0,20,0,10,0,d,"The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat."

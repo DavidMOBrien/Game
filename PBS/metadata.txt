@@ -446,3 +446,28 @@ ShowArea=true
 # 2nd Gym - Poison
 BattleBack=EliteD
 ShowArea=true
+#-------------------------------
+[090]
+# Tau Cave BF
+BattleBack=CaveDark
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[091]
+# Tau Cave 2nd Floor
+BattleBack=CaveDark
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[092]
+# Cliff Edge
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[093]
+# Tau Cave 2nd Floor
+BattleBack=CaveDark
+Outdoor=false
+ShowArea=true
