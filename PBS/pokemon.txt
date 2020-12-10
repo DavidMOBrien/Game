@@ -22543,7 +22543,7 @@ Evolutions=
 [781]
 Name=Cindeer
 InternalName=CINDEER
-Type1=GRASS
+Type1=FIRE
 BaseStats=70,50,75,75,85,60
 GenderRate=Female50Percent
 GrowthRate=Medium
