@@ -115,3 +115,7 @@
 112,BLACKBELT,Black-Belt,60,GenBattle.mp3,,,Male,,
 113,FIREBREATHER,Fire Breather,60,GenBattle.mp3,,,Male,,
 114,LEAGUECHAMPION,Crimson,250,GenBattle.mp3,,,Male,,
+115,OFFICER,Officer,60,GenBattle.mp3,,,Male,,
+116,SERGEANT,Sergeant,70,GenBattle.mp3,,,Male,,
+117,NERD,Nerd,70,GenBattle.mp3,,,Male,,
+118,GYMLEADER3,Steel / Electric Gym Leader,130,GymLeaderTheme.mp3,,,Male,,

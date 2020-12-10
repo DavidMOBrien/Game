@@ -662,7 +662,7 @@ WOODBEAK,25,27
 WOODBEAK,25,27
 WOODBEAK,25,27
 #-------------------------------
-090 # Tau Cave 2nd Floor
+093 # Tau Cave 2nd Floor
 25,10,10
 Cave
 BRICHOP,23,26
