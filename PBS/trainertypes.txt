@@ -111,7 +111,7 @@
 108,GYMLEADER1,Flying Gym Leader,130,GymLeaderTheme.mp3,,,Female,,
 109,GYMLEADER2,Poison Gym Leader,130,GymLeaderTheme.mp3,,,Male,,
 110,NURSE,Nurse,75,GenBattle.mp3,,,Female,,
-111,BRONZEADMIN,Bronze Admin,120,BronzeBattle.mp3,,,Male,120,
+111,BRONZEADMIN,Bronze Admin,120,akatsuki.mp3,,,Male,120,
 112,BLACKBELT,Black-Belt,60,GenBattle.mp3,,,Male,,
 113,FIREBREATHER,Fire Breather,60,GenBattle.mp3,,,Male,,
 114,LEAGUECHAMPION,Crimson,250,GenBattle.mp3,,,Male,,
