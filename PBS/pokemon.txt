@@ -1,4 +1,4 @@
-﻿#-------------------------------
+#-------------------------------
 [1]
 Name=Bulbasaur
 InternalName=BULBASAUR
@@ -19039,8 +19039,8 @@ Shape=7
 Habitat=Grassland
 Kind=Grass Bull
 Pokedex=Sponies are well known for being playful, except when near Bug-Type Pokemon.
-BattlerPlayerY=0
-BattlerEnemyY=27
+BattlerPlayerY=6
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=HORSHUSH,Level,25
 #-------------------------------
@@ -19070,7 +19070,7 @@ Habitat=Grassland
 RegionalNumbers=1,231
 Kind=Seed
 Pokedex=Horshush are guardians of forests, using their Grass-Type moves to "shush" any threats
-BattlerPlayerY=0
+BattlerPlayerY=25
 BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=
@@ -19097,8 +19097,8 @@ Color=Red
 Shape=9
 Kind=Phoenixling
 Pokedex=Flawks can be distinguished when they cherp because smoke emerges from their beaks.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=22
+BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=LEGENIX,Level,25
 #-------------------------------
@@ -19152,8 +19152,8 @@ Color=Blue
 Shape=6
 Kind=Dog
 Pokedex=Using its tail to shoot water at high speeds Pumpaws are able to escape bigger predators.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=17
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=PUULDOG,Level,25
 #-------------------------------
@@ -19180,8 +19180,8 @@ Color=Blue
 Shape=9
 Kind=Pool Bull Dog
 Pokedex=Puuldogs are a popular household Pokemon due to their loyalty and gentle disposition.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=10
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19207,8 +19207,8 @@ Color=Brown
 Shape=9
 Kind=Birdie
 Pokedex=Burboos used to be called a different name, but it conflicted with a pre-existing species.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=18
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=NESKOO,Level,20
 #-------------------------------
@@ -19234,8 +19234,8 @@ Color=Brown
 Shape=9
 Kind=Bigger-Birdie
 Pokedex=Neskoos unlike the typical bird does not chew up its food for its younglings.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=21
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=FALKOO,Level,39
 #-------------------------------
@@ -19287,8 +19287,8 @@ Color=Green
 Shape=14
 Kind=Discount-Caterpie
 Pokedex=Buckots have a really dumb name.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=21
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=JUNOVY,Level,12
 #-------------------------------
@@ -19313,8 +19313,8 @@ Color=Green
 Shape=5
 Kind=Cuckoon
 Pokedex=Junovies have a better name than Buckots.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=25
+BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=MAGNAFLY,Level,39
 #-------------------------------
@@ -19394,7 +19394,7 @@ Color=Blue
 Shape=13
 Kind=Musketeer
 Pokedex=A Mosquiteer can move faster than you can say "Ain't nobody got time for dat"
-BattlerPlayerY=0
+BattlerPlayerY=23
 BattlerEnemyY=0
 BattlerAltitude=0
 Evolutions=
@@ -19420,8 +19420,8 @@ Color=Blue
 Shape=8
 Kind=Junkrat
 Pokedex=Pornhub. PORNHUB. Why isn't Google working? How do i delete text?
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=RODRAT,Level,18
 #-------------------------------
@@ -19446,8 +19446,8 @@ Color=Gray
 Shape=8
 Kind=Ferret Rat Thing
 Pokedex=Ok Google, is Hentai against my religion?
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=21
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19473,8 +19473,8 @@ Color=Red
 Shape=8
 Kind=Tiny Toad
 Pokedex=Reddamps often remain by themselves and avoid social interaction just like me.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=TOMATOG,Level,32
 #-------------------------------
@@ -19500,8 +19500,8 @@ Color=Red
 Shape=12
 Kind=Fat Toad
 Pokedex=Tomatogs eat more than your mom.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=34
+BattlerEnemyY=31
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19527,8 +19527,8 @@ Color=Yellow
 Shape=3
 Kind=Shrimp
 Pokedex=This Shrimpy boy needs some hot sauce.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=22
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=SHRIMPAD,Level,23
 #-------------------------------
@@ -19554,8 +19554,8 @@ Color=Yellow
 Shape=3
 Kind=Large Shrimp
 Pokedex=Shrimpads have the most audacious mating call known to Pokemonkind.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=37
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19585,8 +19585,8 @@ Habitat=Cave
 RegionalNumbers=41,37
 Kind=Bat
 Pokedex=Why the fuck are these in every cave?
-BattlerPlayerY=0
-BattlerEnemyY=20
+BattlerPlayerY=16
+BattlerEnemyY=-4
 BattlerAltitude=15
 Evolutions=GOLBAT,Level,22
 #-------------------------------
@@ -19615,8 +19615,8 @@ Habitat=Cave
 RegionalNumbers=42,38
 Kind=Bat
 Pokedex=Golbats are used by every evil team ever.
-BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerPlayerY=23
+BattlerEnemyY=32
 BattlerAltitude=14
 Evolutions=DRACBAT,Level,41
 #-------------------------------
@@ -19641,8 +19641,8 @@ Color=Blue
 Shape=7
 Kind=Walking Rock
 Pokedex=If you step on a Peblock it'll almost hurt as much as stepping on a LEGO. Almost.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=24
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=DUGMITE,Level,25
 #-------------------------------
@@ -19667,8 +19667,8 @@ Color=Blue
 Shape=7
 Kind=Scary Rock
 Pokedex=Dugmites use their long arms to spin in circles to look like helicopters.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=33
+BattlerEnemyY=38
 BattlerAltitude=0
 Evolutions=EDJAW,Level,45
 #-------------------------------
@@ -19693,8 +19693,8 @@ Color=Blue
 Shape=12
 Kind=Metagross' Cousin
 Pokedex=Y'all best run from this motherfuckin Edjaw.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=32
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19745,7 +19745,7 @@ Color=Blue
 Shape=11
 Kind=Ice Cubes
 Pokedex=You know what makes your drink colder than one ice cube, THREE ICE CUBES
-BattlerPlayerY=0
+BattlerPlayerY=26
 BattlerEnemyY=0
 BattlerAltitude=0
 Evolutions=
@@ -19771,8 +19771,8 @@ Color=Brown
 Shape=8
 Kind=Tiny Boar
 Pokedex=Hoglets enjoy eating bacon. Which is fucked up if you think about it.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=22
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=WARHOG,Level,30
 #-------------------------------
@@ -19797,8 +19797,8 @@ Color=Brown
 Shape=8
 Kind=Boar
 Pokedex=This dude is like a Hoglet, but bigger... and with four fucking tusks
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=19
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19823,8 +19823,8 @@ Color=Brown
 Shape=12
 Kind=Chipmunk
 Pokedex=Alvin? Alvin. ALVIIIIIIIN
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=13
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=CHIPUNK,Level,19
 #-------------------------------
@@ -19849,8 +19849,8 @@ Color=Brown
 Shape=12
 Kind=Large Chipmunk
 Pokedex=Look at that Chipunk's fat cheeks.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=11
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19876,8 +19876,8 @@ Color=Black
 Shape=2
 Kind=Bitty Bug
 Pokedex=Borgals are into some kinky shit using String Shot on each other.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=13
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=DARKOON,Level,9
 #-------------------------------
@@ -19903,8 +19903,8 @@ Color=Black
 Shape=2
 Kind=Three Eyed
 Pokedex=Okay, what in actual fuck is this thing? Like, borgal's at least some caterpillar shit, but this fucker is like a fucking black glob of fucking bug shit.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=18
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=FLYZ,Level,15,MORBIDROME,Item,DUSKSTONE
 #-------------------------------
@@ -19930,8 +19930,8 @@ Color=Black
 Shape=14
 Kind=Fly
 Pokedex=Just stop. If you just captured one of these fuckers then release him and procede to smush the living hell out of it. If you havent't yet captured one, congrudulashuns, you're not a fucking idiot.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=9
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19957,8 +19957,8 @@ Color=Black
 Shape=13
 Kind=Spooky Spoder
 Pokedex=Like this post, or Morbidrome will be under your bed tonight.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=44
+BattlerEnemyY=31
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19984,8 +19984,8 @@ Color=Yellow
 Shape=9
 Kind=Hummingbird
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=10
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=HUMSHOCK,Level,24
 #-------------------------------
@@ -20038,8 +20038,8 @@ Color=Gray
 Shape=1
 Kind=DUMBell
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=36
+BattlerEnemyY=30
 BattlerAltitude=0
 Evolutions=ATONIC,Level,30
 #-------------------------------
@@ -20119,8 +20119,8 @@ Color=Red
 Shape=9
 Kind=Baby Hawk
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=42
+BattlerEnemyY=30
 BattlerAltitude=0
 Evolutions=HAWKZOR,Level,35
 #-------------------------------
@@ -20146,8 +20146,8 @@ Color=Red
 Shape=9
 Kind=Hawk
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=26
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20173,8 +20173,8 @@ Color=Blue
 Shape=9
 Kind=Baby Jay
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=50
+BattlerEnemyY=31
 BattlerAltitude=0
 Evolutions=JAYZURE,Level,35
 #-------------------------------
@@ -20200,8 +20200,8 @@ Color=Blue
 Shape=9
 Kind=Jay
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=33
+BattlerEnemyY=33
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20226,8 +20226,8 @@ Color=Red
 Shape=8
 Kind=Baby Tall Boi
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=31
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=GIRAFFLUX,Item,FIRESTONE
 #-------------------------------
@@ -20252,8 +20252,8 @@ Color=Red
 Shape=8
 Kind=Tall Boi
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=37
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20278,8 +20278,8 @@ Color=Green
 Shape=4
 Kind=HENTAI STAR
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=52
+BattlerEnemyY=39
 BattlerAltitude=0
 Evolutions=VISPIRIAL,Item,LEAFSTONE
 #-------------------------------
@@ -20304,8 +20304,8 @@ Color=Green
 Shape=4
 Kind=HENTAI PRODIGY
 Pokedex=???
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=37
+BattlerEnemyY=33
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20330,9 +20330,9 @@ Color=Blue
 Shape=6
 Kind=Surfing
 Pokedex=Those motherfucking Beach Boys are tryna make a comeback
-BattlerPlayerY=0
-BattlerEnemyY=0
-BattlerAltitude=0
+BattlerPlayerY=34
+BattlerEnemyY=30
+BattlerAltitude=2
 Evolutions=TIDUDE,Item,WATERSTONE
 #-------------------------------
 [699]
@@ -20356,8 +20356,8 @@ Color=Blue
 Shape=6
 Kind=Beach Boi
 Pokedex=ROUND ROUND GET A ROUND ROCKIN AROUND
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=20
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20383,8 +20383,8 @@ Color=White
 Shape=1
 Kind=Hatchling
 Pokedex=Cute Egg Pokemon That Barely Knows How to Eat
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=16
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=ROOSTOCK,LevelMale,25,LUFFHEN,LevelFemale,25
 #-------------------------------
@@ -20410,8 +20410,8 @@ Color=White
 Shape=1
 Kind=Rooster
 Pokedex=Strong rooster that can use its harsh wings to create fire tornadoes
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=17
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20437,8 +20437,8 @@ Color=White
 Shape=1
 Kind=Hen
 Pokedex=Luffhen are great mothers, but are also extremely territorial.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=21
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20464,8 +20464,8 @@ Color=Black
 Shape=8
 Kind=Dust Dragon
 Pokedex=Lizidirt are able to use their bodies to disguise themselves in sand to hide from predators.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=49
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=DUSTIDRA,Level,40
 #-------------------------------
@@ -20491,8 +20491,8 @@ Color=Black
 Shape=8
 Kind=Mythical Dust Beast
 Pokedex=Dustidra use guerilla tactics to ambush their prey when it is unaware
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=26
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20518,8 +20518,8 @@ Color=Blue
 Shape=8
 Kind=Ugly Duckling
 Pokedex=Quackitts' only redeeming quality lies in its ability to use Water-Type attacks
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=39
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=GOOSTORK,Level,28
 #-------------------------------
@@ -20545,8 +20545,8 @@ Color=Blue
 Shape=8
 Kind=Ugly Duckling
 Pokedex=Nobody could have expected the brilliant Goostork to evolve from Quackitt, I guess looks really are everything!
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=26
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20572,8 +20572,8 @@ Color=Purple
 Shape=8
 Kind=Vampire Bat
 Pokedex=Only Golbats in the Elite Region evolve into Dracbat, this predator packs a stronger punch than Crobat.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=19
+BattlerEnemyY=3
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20702,8 +20702,8 @@ Color=White
 Shape=1
 Kind=Friendly Cyclone
 Pokedex=Breeclones have been seen thundering when mad, and raining when sad.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=19
+BattlerEnemyY=23
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20729,8 +20729,8 @@ Color=Green
 Shape=9
 Kind=Prankster Bird
 Pokedex=Woodbeaks are herbivores, however, they delightfully "hunt" other species with their pranks and unique moveset.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20756,8 +20756,8 @@ Color=Green
 Shape=8
 Kind=Grass Sheep
 Pokedex=It is said that Baabush use their baa's to grow flowers on unfertile soil.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=35
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20783,8 +20783,8 @@ Color=Blue
 Shape=8
 Kind=Bubble Sheep
 Pokedex=Baabbles do not "technically" make noise, instead when they baa they create bubbles that when popped echo their cry.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=36
+BattlerEnemyY=26
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20810,8 +20810,8 @@ Color=Red
 Shape=8
 Kind=Flaming Sheep
 Pokedex=Baaburns have the deepest "baa" of all of their relatives.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=35
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20837,8 +20837,8 @@ Color=Brown
 Shape=8
 Kind=Boulder Sheep
 Pokedex=Baablocks are very territorial, if you hear the clanking of its feet while on a mountain, you best run.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=26
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20864,8 +20864,8 @@ Color=White
 Shape=8
 Kind=Frozen Sheep
 Pokedex=Baablizzes are very tired Pokemon, and are often stepped on when they become camoflagued in their snowy homes.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=42
+BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20891,8 +20891,8 @@ Color=Purple
 Shape=9
 Kind=Avian Fighter
 Pokedex=A natural competitor for survival both in land and in the sky.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=EAGRUFF,Level,41
 #-------------------------------
@@ -20918,8 +20918,8 @@ Color=Purple
 Shape=9
 Kind=Avian Competitor
 Pokedex=A victor that fights its foes on the ground in the air, and foes in the sky on land.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=27
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21022,8 +21022,8 @@ Color=Green
 Shape=1
 Kind=Strange Bud
 Pokedex=This small bud looks as though it contains more potential than the typical grass type.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=PETAVIN,Happiness,
 #-------------------------------
@@ -21049,8 +21049,8 @@ Color=Green
 Shape=1
 Kind=Mystical Bloom
 Pokedex=Bulvo's evolved form, it holds immense supernatural psionic abilities as well as is one with the natural elements.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=31
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21075,8 +21075,8 @@ Color=Blue
 Shape=10
 Kind=Shielded Crab
 Pokedex=Crablues seem to have strong protective measures, using defense-based moves more than its Water-Typed attacks.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=38
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=ROCKSTER,HasMove,CRABHAMMER
 #-------------------------------
@@ -21102,8 +21102,8 @@ Color=Blue
 Shape=10
 Kind=Protected Crustacian
 Pokedex=Rocksters use their hardened shell to create powerful bludgeoning attacks against their enemies while safe inside their shell
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=54
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21129,8 +21129,8 @@ Color=Green
 Shape=5
 Kind=Unsettling Pokemon
 Pokedex=Wheacrows aren't placed by people, instead they seemingly show up when an individual feels unsettled and nervous.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=SCAREKREEP,HasMove,HYPNOSIS
 #-------------------------------
@@ -21156,8 +21156,8 @@ Color=Green
 Shape=5
 Kind=Evil Conjuration
 Pokedex= ... 
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21182,8 +21182,8 @@ Color=Brown
 Shape=8
 Kind=Shielded Dome
 Pokedex= Armishells are very curious Pokemon, despite living their lives in their secluded shells.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=17
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=ARMOCLAW,Level,33
 #-------------------------------
@@ -21208,8 +21208,8 @@ Color=Brown
 Shape=8
 Kind=Clawed Dome
 Pokedex=Tired of being unable to defend itself, an Armishell evolves into Armoclaw to increase its attacking abilities.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21235,8 +21235,8 @@ Color=Purple
 Shape=8
 Kind=Pebble Spider
 Pokedex=Occasionally, Pinrocks will be mistaken for stones and be skipped across water.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=20
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=VENSTONE,Level,18
 #-------------------------------
@@ -21262,8 +21262,8 @@ Color=Purple
 Shape=8
 Kind=Poisonous Stone
 Pokedex=Venstone do not traditionally "hunt" their prey, instead, they prefer to watch their prey wither away from their poison.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=31
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=TOXITONE,Level,31
 #-------------------------------
@@ -21289,8 +21289,8 @@ Color=Purple
 Shape=8
 Kind=Venomous Boulder
 Pokedex=Their poison is rumored to be able to melt off human skin in a matter of seconds
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=27
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21315,8 +21315,8 @@ Color=Purple
 Shape=1
 Kind=Failed Experiment
 Pokedex=Inspired by a Kanto Experiment gone wrong, Lablubs were created by the intentional failure of a cloning experiment.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=LABLOW,Level,29
 #-------------------------------
@@ -21341,8 +21341,8 @@ Color=Purple
 Shape=5
 Kind=Acidic Jelly
 Pokedex=THE FAILED EXPERIMENT CAN EVOLVE?!? WHAT DID WE CREATE?!? - Doctor J. Elly
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=LABABABBA,Level,44
 #-------------------------------
@@ -21368,7 +21368,7 @@ Shape=5
 Kind=Bababba Bab BaBa Ba
 Pokedex=Ba Bababa Baba Baaa
 BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerEnemyY=-9
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21394,8 +21394,8 @@ Color=Purple
 Shape=12
 Kind=Pageant
 Pokedex=Fevars need all attention to be on them, they act like spoiled brats but also take what they can't earn
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=27
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=FEVIRA,Level,27
 #-------------------------------
@@ -21421,8 +21421,8 @@ Color=Purple
 Shape=12
 Kind=Alluring Thief
 Pokedex=With a bat of their eyes and a dose of poison, Fevira know how to get what they want when they want.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=24
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=FEVESTA,Level,42
 #-------------------------------
@@ -21448,8 +21448,8 @@ Color=Purple
 Shape=12
 Kind=Wicked Criminal
 Pokedex=Being able to use a variety of abilities, along with their speciality in Poison-type attacks, Fevestas are dangerously cunning.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=23
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21475,8 +21475,8 @@ Color=Purple
 Shape=2
 Kind=Slithering Flame
 Pokedex=Vipyroes are secretly afraid of the very flame on the end of their bodies.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=20
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=COBLAZE,Level,39
 #-------------------------------
@@ -21502,8 +21502,8 @@ Color=Purple
 Shape=2
 Kind=Pythonic Infernoes
 Pokedex=Coblazes can use their poison to ignite deadly flames that burn its victims from both acid and intense temperatures.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=32
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21529,8 +21529,8 @@ Color=Yellow
 Shape=5
 Kind=Firework
 Pokedex=Warning: Blitzies may explode when they are happy
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=24
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=FIREWOW,Level,39
 #-------------------------------
@@ -21556,8 +21556,8 @@ Color=Yellow
 Shape=5
 Kind=Beautiful Explosion
 Pokedex=Warning: Launch Firewows at least 5 yards away to stay safe!
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=15
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21582,8 +21582,8 @@ Color=Blue
 Shape=8
 Kind=Curious SeaMonster
 Pokedex=Curious sea monsters, Finflixes are able to blend into the sea perfectly.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=SURFLIX,Level,38
 #-------------------------------
@@ -21609,8 +21609,8 @@ Color=Blue
 Shape=8
 Kind=Playful Aquatian
 Pokedex=Surflixes do not engage in combat lightly, they prefer to drift through life care-free
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=21
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=ARCTIPLEX,Level,50
 #-------------------------------
@@ -21636,8 +21636,8 @@ Color=Blue
 Shape=8
 Kind=Friendly Beast
 Pokedex=Grand mothers and fathers of the arctic and sea, Arctiplexes use their dominant water and ice powers to keep peace.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=20
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21662,8 +21662,8 @@ Color=Green
 Shape=14
 Kind=Brawling Bug
 Pokedex=Mantanas take any opportunity they can get to fight things bigger and stronger than them
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=9
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=MANTRISM,Level,35
 #-------------------------------
@@ -21688,8 +21688,8 @@ Color=Green
 Shape=14
 Kind=Fierce Mantis
 Pokedex=Mantrisms are willing to fight in any way possible - honorable or dirty.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=12
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21717,8 +21717,8 @@ Shape=8
 Habitat=Urban
 Kind=Evolution
 Pokedex=An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=4
+BattlerEnemyY=-3
 BattlerAltitude=0
 Evolutions=METALEON,HasMove,METALCLAW,TOXINEON,HasMove,POISONTAIL,ANTEON,HasMove,BUGBUZZ,OMNEON,HasMove,SHADOWSNEAK
 #-------------------------------
@@ -21743,8 +21743,8 @@ Color=Purple
 Shape=8
 Kind=Poison Evolution
 Pokedex=Adapting to its environment, Toxineons learned how to harness poisonous powers to use against their foes
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=9
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21769,8 +21769,8 @@ Color=White
 Shape=8
 Kind=Steel Evolution
 Pokedex=The perfect machine, able to counter is weaknesses while still maintaining a strong offense.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21795,8 +21795,8 @@ Color=Blue
 Shape=8
 Kind=Ghost Evolution
 Pokedex=There are rumors that Eevee must die to become Omneon, but in actuality Omneon is still very much alive.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=15
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21821,8 +21821,8 @@ Color=Green
 Shape=8
 Kind=Bug Evolution
 Pokedex=The most resourceful Eeveeloution, Anteons use a variety of moves to control the situation
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=18
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21847,8 +21847,8 @@ Color=Green
 Shape=8
 Kind=Lucky
 Pokedex=Like a rabbit's foot, or a double rainbow, Clovoxes are a sign of good luck.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=16
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=CLOVALOUR,Level,40
 #-------------------------------
@@ -21873,8 +21873,8 @@ Color=Green
 Shape=8
 Kind=4-Leaf-Clover
 Pokedex=Clovalour have the power of luck on their side, making them both elusive targets and fearsome enemies. How lucky do you feel?
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21900,8 +21900,8 @@ Color=Black
 Shape=1
 Kind=Deep's Victim
 Pokedex=Skeledeep hate shallow water, preferring to munch on victims of the sea who have sank to the oceanfloor
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21926,8 +21926,8 @@ Color=Brown
 Shape=1
 Kind=Brick
 Pokedex=Brichops are very dense and heavy, and are often mistaken as actual bricks and as a result are placed inside of construction sites.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=BRICOLOM,Level,31
 #-------------------------------
@@ -21952,8 +21952,8 @@ Color=Brown
 Shape=1
 Kind=Brick
 Pokedex=It is common for a Bricolom to tip over onto its side, it can remain stuck like this for days.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=10
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=BRICOWER,Level,54
 #-------------------------------
@@ -21978,8 +21978,8 @@ Color=Brown
 Shape=1
 Kind=Brick
 Pokedex=Bricowers are a very sturdy Pokemon, using their weight to push around lighter species.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=14
+BattlerEnemyY=12
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22005,8 +22005,8 @@ Color=White
 Shape=1
 Kind=Anchor
 Pokedex=Ancoils only float up to the surface when they are bored
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=32
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=ANCRUST,Level,44
 #-------------------------------
@@ -22032,8 +22032,8 @@ Color=White
 Shape=1
 Kind=Heavy Anchor
 Pokedex=Ancrusts are abandoned by the boats they once protected, feeling no empathy, nothing stands in their way.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22062,8 +22062,8 @@ RegionalNumbers=77,206
 Kind=Fire Goat
 Pokedex=Trained at a young age to be territorial, Kidlits have a hard time opening up to trainers.
 WildItemUncommon=SHUCABERRY
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=6
+BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=BILLAZE,Level,44
 #-------------------------------
@@ -22092,8 +22092,8 @@ RegionalNumbers=78,207
 Kind=Flaming Ram
 Pokedex=The pride of the mountains, Billaze special both in close-range and long-range combat
 WildItemUncommon=SHUCABERRY
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=12
+BattlerEnemyY=8
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22121,8 +22121,8 @@ Color=Black
 Shape=8
 Kind=Rebellious
 Pokedex=The most important thing to a Roadile is getting away from its Tarvial parents
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=14
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=TARVIAL,Level,47
 #-------------------------------
@@ -22149,8 +22149,8 @@ Color=Black
 Shape=8
 Kind=Threatening
 Pokedex=It's eyes can see in pitch darkness, and its fangs can rip through any wall. You're not safe.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=13
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22179,7 +22179,7 @@ Pokedex=Lastic is always chewing as if it has gum in its mouth
 WildItemCommon=ORANBERRY
 WildItemUncommon=SITRUSBERRY
 BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22207,8 +22207,8 @@ Shape=9
 Habitat=RoughTerrain
 Kind=Sturdy Hatchling
 Pokedex=Hatched from a steel ore, Skarbies know how to fly like experts on the day of their birth.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=15
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=SKARMORY,Level,37
 #-------------------------------
@@ -22236,8 +22236,8 @@ Shape=9
 Habitat=RoughTerrain
 Kind=Armor Bird
 Pokedex=A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=14
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=SKARRUSH,Level,55
 #-------------------------------
@@ -22265,8 +22265,8 @@ Shape=9
 Habitat=RoughTerrain
 Kind=One Bird Army
 Pokedex=With the heaving plating across its body, a Skarrush is not able to be stopped if it chooses to fly at its top speed.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=20
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22349,8 +22349,8 @@ Color=Blue
 Shape=14
 Kind=Heavy Slug
 Pokedex=Crystugs have learned that the best offense is the best defense, they use their massive shells to push around opponents and dominate the battlefield with their presence.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=20
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22376,8 +22376,8 @@ Color=Black
 Shape=1
 Kind=Multi-Tool
 Pokedex=Multools are able to be a hammer, telephone, stereo, and crank. They also have small Psychic powers that allow them to manipulate Pokemon battles
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=11
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22402,8 +22402,8 @@ Color=Black
 Shape=2
 Kind=Steel Worm
 Pokedex=Wormines have been discovered tunneling into modern-day structures and creating small nests for them to live inside.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=11
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=DINOMYTE,Level,30
 #-------------------------------
@@ -22428,8 +22428,8 @@ Color=Black
 Shape=2
 Kind=Metal Dinosaur
 Pokedex=Dinomytes' favorite snack are power lines, it is for this reason that power lines are high in the air to keep out of Dinomytes' reach
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=13
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=ARMORDRA,Level,53
 #-------------------------------
@@ -22455,8 +22455,8 @@ Color=Black
 Shape=2
 Kind=Armored Dragon
 Pokedex=Armordras are the fantasy beasts of the industrial era
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=17
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22481,8 +22481,8 @@ Color=Green
 Shape=6
 Kind=Jungle Child
 Pokedex=Legends say that Lemuus are descendants of a ninja who turned himself into a Pokemon
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=8
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=JUNGINJAI,Level,48
 #-------------------------------
@@ -22508,8 +22508,8 @@ Color=Green
 Shape=6
 Kind=Jungle Ninja
 Pokedex=Junginjai have mastered the unpredictability of the jungle, but their quest for more power lies in its search to become indistinguishable
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=8
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=LONKALAA,Level,62
 #-------------------------------
@@ -22535,8 +22535,8 @@ Color=Green
 Shape=6
 Kind=Sensei
 Pokedex=Mastering speed, disguise, and both physical and special attacks, Lonkalaas are the true masters of the jungle
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=22
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22561,8 +22561,8 @@ Color=Red
 Shape=8
 Kind=Speedy Deer
 Pokedex=Cindeers leave small flames in its footprints when it hunts for food
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=15
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=BURNICK,Level,48
 #-------------------------------
@@ -22588,8 +22588,8 @@ Color=Red
 Shape=8
 Kind=Gravity-Defying
 Pokedex=Once a Burnick hits a certain speed threshold, it is able to run on air. This has led to it being classified as a Flying Type.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=13
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=ZHATTEER,Level,62
 #-------------------------------
@@ -22615,8 +22615,8 @@ Color=Red
 Shape=8
 Kind=Sound-Shattering
 Pokedex=With the inhuman speed of a jet, Zhateers are able to break the sound barrier, leaving behind only a tunnel of flames in its wake.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=23
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22641,8 +22641,8 @@ Color=Blue
 Shape=8
 Kind=Peaceful Elephant
 Pokedex=Trunkits literally exist just to vibe, bro.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=26
+BattlerEnemyY=12
 BattlerAltitude=0
 Evolutions=ENELAY,Level,48
 #-------------------------------
@@ -22668,8 +22668,8 @@ Color=Blue
 Shape=8
 Kind=Wandering Curiosity
 Pokedex=Enelays goal in life is to explore a variety of cultures, and as a result it learns a plethora of moves.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=28
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=SAGEPHANT,Level,62
 #-------------------------------
@@ -22695,8 +22695,8 @@ Color=Blue
 Shape=8
 Kind=Satisfied Sage
 Pokedex=After exploring the world, Sagephants realize that the true importance in life is to build up one's own culture.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=25
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22722,8 +22722,8 @@ Color=Green
 Shape=1
 Kind=Evil Plant
 Pokedex=Vennaps enjoy playing tricks on gardeners late at night
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=39
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=MONSTRAP,Item,LEAFSTONE
 #-------------------------------
@@ -22749,8 +22749,8 @@ Color=Blue
 Shape=8
 Kind=Vine Monster
 Pokedex=Monstraps are carnivores and herbivores. Their favorite snack are Tangelas.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=32
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22776,8 +22776,8 @@ Color=White
 Shape=6
 Kind=Panda
 Pokedex=Panpas are very cuddly and friendly creatures and are known as the heaviest sleepers of any Pokemon.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=40
+BattlerEnemyY=23
 BattlerAltitude=0
 Evolutions=OPPANDA,Happiness,
 #-------------------------------
@@ -22802,8 +22802,8 @@ Color=White
 Shape=6
 Kind=Heavy
 Pokedex=Oppandas use their weight to shove around others in order to bully their way to their next meal.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=31
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22829,8 +22829,8 @@ Color=Blue
 Shape=1
 Kind=Naval Mine
 Pokedex=Mineeps typically stay in packs together, laughing uncontrollably as each of their companions collides in a pressurized explosion.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=61
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22858,8 +22858,8 @@ Habitat=Forest
 Kind=Gecko
 Pokedex=Lightiles are known to be very shy Pokemon, letting out tiny streaks of lightning to war away strangers
 WildItemCommon=ORANBERRY
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=44
+BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=VOLKATO,Level,27
 #-------------------------------
@@ -22888,8 +22888,8 @@ Kind=Charged Gecko
 Pokedex=It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.
 WildItemCommon=ORANBERRY
 WildItemRare=LIGHTBALL
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=34
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=RAIGEKO,Item,THUNDERSTONE
 #-------------------------------
@@ -22917,8 +22917,8 @@ Habitat=Forest
 Kind=Generator
 Pokedex=In a previous powergrid outline for Gemini Town, Raigekos were hooked up to generators to supply free power.
 WildItemCommon=ORANBERRY
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=34
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22945,8 +22945,8 @@ Shape=1
 Habitat=Urban
 Kind=Circus
 Pokedex=A Circus tent that came to life after children left its show scared of the clowns and shows
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=37
+BattlerEnemyY=23
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22972,8 +22972,8 @@ Color=White
 Shape=8
 Kind=Indecisive
 Pokedex=Salavar is a Pokemon whose good and evil is physically split. In the end, only one of its manifestations can permanently surface
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=37
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=SALA,LevelDay,45,VAR,LevelNight,45
 #-------------------------------
@@ -22999,8 +22999,8 @@ Color=White
 Shape=8
 Kind=Pure Good
 Pokedex=Sala is the result when a Salavar is able to eliminate its evil side, resulting in a Pokemon who values love above all else.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=30
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23026,8 +23026,8 @@ Color=Black
 Shape=8
 Kind=Pure Evil
 Pokedex=Banishing its good counterpart out of existence, Var is corrupt evil in its purest form.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=37
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23053,8 +23053,8 @@ Color=Green
 Shape=8
 Kind=Plump Hatchling
 Pokedex=Wingons attempt to fly with their tiny wings, but their bodies are so heavy that they can barely make it off the ground
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=29
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=AEROGON,Level,42
 #-------------------------------
@@ -23080,8 +23080,8 @@ Color=Blue
 Shape=8
 Kind=Heavy Dragon
 Pokedex=Accepting that their wings are too small, they utilize them to leap across canyons to better mobilize their fat bodies.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=26
+BattlerEnemyY=22
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23108,8 +23108,8 @@ Shape=8
 Habitat=Grassland
 Kind=Leaf
 Pokedex=Dependent on its parents to reach all trees to eat, Braceos are not self-sufficient without eating the leaves at the end of their tails.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=18
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=BRACHOLEAF,Level,38
 #-------------------------------
@@ -23136,8 +23136,8 @@ Shape=8
 Habitat=Grassland
 Kind=Leaf
 Pokedex=Bracholeaves enjoy being mystified by sweet-sounding music. They are on a quest to become knowledgable and calm
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=28
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=BRACHOPINE,Item,LEAFSTONE
 #-------------------------------
@@ -23164,8 +23164,8 @@ Shape=8
 Habitat=Grassland
 Kind=Herb
 Pokedex=Brachopines are the quiet, friendly giants of the forest.
-BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerPlayerY=27
+BattlerEnemyY=17
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23193,6 +23193,9 @@ Shape=8
 Habitat=Mountain
 Kind=Tiny Coal
 Pokedex=When wet a Torboil instantly turns it to steam from its high body temperature
+BattlerEnemyY=15
+BattlerPlayerY=35
+BattlerAltitude=0
 Evolutions=TORKOAL,Level,30
 #-------------------------------
 [805]
@@ -23219,6 +23222,9 @@ Shape=8
 Habitat=Mountain
 Kind=Coal
 Pokedex=It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.
+BattlerEnemyY=16
+BattlerPlayerY=36
+BattlerAltitude=0
 Evolutions=TORMINE,Level,51
 #-------------------------------
 [806]
@@ -23245,6 +23251,9 @@ Shape=8
 Habitat=Mountain
 Kind=Explosive
 Pokedex=It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.
+BattlerEnemyY=24
+BattlerPlayerY=31
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [807]
@@ -23272,6 +23281,9 @@ Habitat=Sea
 Kind=Angler
 Pokedex=After hitting top speeds, it sends out small voltages across the water currents to warn its prey to start running.
 WildItemUncommon=DEEPSEASCALE
+BattlerEnemyY=21
+BattlerPlayerY=46
+BattlerAltitude=0
 Evolutions=MARKLITZ,Level,39
 #-------------------------------
 [808]
@@ -23298,6 +23310,9 @@ Habitat=Sea
 Kind=Light
 Pokedex=Marklitzes are drawn to light like a shark is drawn to blood, at top speed it is able to pierce through submarines.
 WildItemUncommon=DEEPSEASCALE
+BattlerEnemyY=18
+BattlerPlayerY=22
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [809]
@@ -23322,6 +23337,9 @@ Shape=8
 Habitat=Forest
 Kind=Mischevious
 Pokedex=Little tricksters, Impets use a variety of tricks to confuse and combat opponents.
+BattlerEnemyY=18
+BattlerPlayerY=42
+BattlerAltitude=0
 Evolutions=JESTIMP,Level,35
 #-------------------------------
 [810]
@@ -23346,6 +23364,9 @@ Shape=8
 Habitat=Forest
 Kind=Playful
 Pokedex=Jestimps ambush wanderers late at night, but always give them a gift after their prank is over.
+BattlerEnemyY=20
+BattlerPlayerY=24
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [811]
@@ -23369,6 +23390,9 @@ Color=Brown
 Shape=1
 Kind=Dune
 Pokedex=Sanpools flatten themselves amongst large piles of sand and as usually stepped on. They hate being made sandcastles.
+BattlerEnemyY=23
+BattlerPlayerY=37
+BattlerAltitude=0
 Evolutions=MONSTUNE,Level,43
 #-------------------------------
 [812]
@@ -23392,6 +23416,9 @@ Color=Brown
 Shape=1
 Kind=Dune
 Pokedex=Monstunes disguise themselves as sandy hills and then engulf unsuspecting travelers, but spit them out after they've digested all of their valuables.
+BattlerEnemyY=20
+BattlerPlayerY=25
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [813]
@@ -23418,6 +23445,9 @@ Shape=12
 Habitat=Grassland
 Kind=Bizzare
 Pokedex=Moonkies barely move their arms or legs, instead it relies on its tails and psychic powers to move seemlessly.
+BattlerEnemyY=16
+BattlerPlayerY=26
+BattlerAltitude=0
 Evolutions=HYPNO,Happiness
 #-------------------------------
 [814]
@@ -23443,6 +23473,9 @@ Shape=12
 Habitat=Grassland
 Kind=Mesmerizing
 Pokedex=Lunapes are tougher to take down than they appear, they are able to neglect damage from spells with their Psychic powers.
+BattlerEnemyY=22
+BattlerPlayerY=29
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [815]
@@ -23470,6 +23503,9 @@ Kind=Tiny Bug
 Pokedex=Tinugs don't seem to hold any significance whatsoever. Literally the most forgettable bug ever.
 WildItemCommon=PECHABERRY
 WildItemUncommon=POISONBARB
+BattlerEnemyY=-2
+BattlerPlayerY=26
+BattlerAltitude=0
 Evolutions=CENTINATION,Level,33
 #-------------------------------
 [816]
@@ -23496,6 +23532,9 @@ Kind=Megapede
 Pokedex=Its tiny wings can just barely carry it above the ground
 WildItemCommon=PECHABERRY
 WildItemUncommon=POISONBARB
+BattlerEnemyY=13
+BattlerPlayerY=23
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [817]
@@ -23524,6 +23563,9 @@ Kind=Melon
 Pokedex=Meloons often chase their tails like dogs, even though they clearly aren't dogs...
 WildItemCommon=ORANBERRY
 WildItemUncommon=OCCABERRY
+BattlerEnemyY=21
+BattlerPlayerY=29
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [818]
@@ -23550,6 +23592,9 @@ Shape=3
 Habitat=Sea
 Kind=Baby Orca
 Pokedex=Wayrals are found on the surface of water often, basking in the sun
+BattlerEnemyY=27
+BattlerPlayerY=32
+BattlerAltitude=0
 Evolutions=HUMBREECH,Level,49
 #-------------------------------
 [819]
@@ -23576,6 +23621,9 @@ Shape=3
 Habitat=Sea
 Kind=Giant Orca
 Pokedex=Humbreeches have been mistaken for land by pirates, who have tried to claim their exposed humps as their own private land.
+BattlerEnemyY=17
+BattlerPlayerY=25
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [820]
@@ -23599,6 +23647,9 @@ Color=White
 Shape=5
 Kind=Snow Head
 Pokedex=Avalowes are thought to be the decapitated heads of snowmen
+BattlerEnemyY=12
+BattlerPlayerY=28
+BattlerAltitude=0
 Evolutions=AVACHILL,Level,31
 #-------------------------------
 [821]
@@ -23622,6 +23673,9 @@ Color=White
 Shape=5
 Kind=Sentient Snow
 Pokedex=Avachills are a snowman's awkward puberty phase.
+BattlerEnemyY=20
+BattlerPlayerY=24
+BattlerAltitude=0
 Evolutions=AVAPLOW,Level,52
 #-------------------------------
 [822]
@@ -23645,4 +23699,7 @@ Color=White
 Shape=5
 Kind=Abominable Snowman
 Pokedex=Avaplows use their scarves to whip mountaintops in order to create avalanches that they surf upon
+BattlerEnemyY=17
+BattlerPlayerY=26
+BattlerAltitude=0
 Evolutions=
