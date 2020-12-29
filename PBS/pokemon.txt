@@ -20572,8 +20572,8 @@ Color=Purple
 Shape=8
 Kind=Vampire Bat
 Pokedex=Only Golbats in the Elite Region evolve into Dracbat, this predator packs a stronger punch than Crobat.
-BattlerPlayerY=19
-BattlerEnemyY=3
+BattlerPlayerY=26
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
