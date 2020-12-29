@@ -575,3 +575,4 @@
 575,SHADOWPANIC,Shadow Panic,12A,0,SHADOW,Status,90,0,0,04,0,bk,Cool,"A shadowy aura emanates to confuse the foe."
 576,SHADOWSHED,Shadow Shed,132,0,SHADOW,Status,100,0,0,20,0,b,Cool,"A shadowy aura eliminates Reflect and similar moves."
 577,SHADOWSKY,Shadow Sky,131,0,SHADOW,Status,100,0,0,20,0,b,Cool,"Darkness hurts all but Shadow Pokémon for 5 turns."
+578,LEECHWAVE,Leech Wave,0DD,90,WATER,Special,100,5,0,00,0,bef,"A magical wave imbued with chemicals that restore its caster with energy drained by those within the wave."
