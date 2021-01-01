@@ -36,10 +36,14 @@
 47,East,8,52,West,0
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Route IV (98) - Dinky Town (99)
+98,North,5,99,South,0
 # Route II (78) - Libra Town (77)
 78,West,0,77,East,8
 # Route I (76) - Libra Town (77)
 76,South,18,77,North,0
+# Route IV (98) - Gemini Town (94)
+98,West,1,94,East,0
 # Leo Town (81) - Forest of Hills (83)
 81,North,0,83,South,4
 # Cygnus Town (43) - Forest of Hills (83)
@@ -52,5 +56,7 @@
 86,North,0,85,South,93
 # Leo Town (81) - Route III (85)
 81,East,0,85,West,6
+# Route IV (98) - Murr Swamp (97)
+98,East,14,97,West,0
 # Route I (76) - Cygnus Town (43)
 76,North,0,43,South,27

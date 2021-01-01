@@ -437,7 +437,7 @@ ShowArea=true
 # Taurus Town Inside
 #-------------------------------
 [088]
-# Tau Cave
+# Tau Cave 1st Floor
 BattleBack=CaveDark
 Outdoor=false
 ShowArea=true
