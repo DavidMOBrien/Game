@@ -1,0 +1,16 @@
+Weakness:
+PSYCHIC
+ROCK
+GROUND
+DRAGON
+
+ResistanceS:
+BUG
+STEEL
+FIRE
+WATER
+GRASS
+ELECTRIC
+
+Immunities:
+Ghost
