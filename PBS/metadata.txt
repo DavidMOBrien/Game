@@ -471,3 +471,20 @@ ShowArea=true
 BattleBack=CaveDark
 Outdoor=false
 ShowArea=true
+#-------------------------------
+[097]
+# Murr Swamp
+BattleBack=Forest
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[098]
+# Route IV
+BattleBack=Field
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[099]
+# Dinky Town
+Outdoor=true
+ShowArea=true
