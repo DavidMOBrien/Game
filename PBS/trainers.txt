@@ -754,3 +754,9 @@ POSSESSED
 Gothel
 1
 BANCRY,37
+#-------------------------------
+NURSE
+Charity
+2,HYPERPOTION
+MOONKY,34
+MOONKY,34
