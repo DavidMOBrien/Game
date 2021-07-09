@@ -488,3 +488,7 @@ ShowArea=true
 # Dinky Town
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[109]
+# 4th Gym - Grass / Dark
+DarkMap=true

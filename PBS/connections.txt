@@ -60,5 +60,7 @@
 98,West,1,94,East,0
 # Dinky Town (99) - Graveyard Zone (106)
 99,79,0,106,0,48
+# Murr Swamp (97) - Ursa Minor Town (101)
+97,East,0,101,West,4
 # Route IV (98) - Murr Swamp (97)
 98,East,14,97,West,0
