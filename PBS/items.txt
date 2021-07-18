@@ -523,3 +523,7 @@
 523,REVEALGLASS,Reveal Glass,Reveal Glasses,8,0,"A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.",5,0,6,
 524,OVALCHARM,Oval Charm,Oval Charms,8,0,"An oval charm said to increase the chance of Eggs being found at the Day Care.",0,0,6,
 525,SHINYCHARM,Shiny Charm,Shiny Charms,8,0,"A shiny charm said to increase the chance of finding a Shiny Pokémon.",0,0,6,
+526,JOYSCENT,Joy Scent,Joy Scents,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0,
+527,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0,
+528,VIVIDSCENT,Vivid Scent,Vivid Scents,1,800,"This scent massage opens the hearts of Pokémon a lot.",1,0,0,
+529,TIMEFLUTE,Time Flute,Time Flutes,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0,
