@@ -1267,3 +1267,490 @@ FormName = Chill Drive
 #-------------------------------
 [GENESECT,4]
 FormName = Douse Drive
+#-------------------------------
+[GRENINJA,1]
+Abilities = BATTLEBOND
+HiddenAbility = BATTLEBOND
+Compatibility = Undiscovered
+#-------------------------------
+[GRENINJA,2]
+FormName = Ash-Greninja
+BaseStats = 72,145,67,132,153,71
+Abilities = BATTLEBOND
+HiddenAbility = BATTLEBOND
+Generation = 7
+#-------------------------------
+[VIVILLON,1]
+FormName = Continental Pattern
+#-------------------------------
+[VIVILLON,2]
+FormName = Elegant Pattern
+#-------------------------------
+[VIVILLON,3]
+FormName = Garden Pattern
+#-------------------------------
+[VIVILLON,4]
+FormName = High Plains Pattern
+#-------------------------------
+[VIVILLON,5]
+FormName = Icy Snow Pattern
+#-------------------------------
+[VIVILLON,6]
+FormName = Jungle Pattern
+#-------------------------------
+[VIVILLON,7]
+FormName = Marine Pattern
+#-------------------------------
+[VIVILLON,8]
+FormName = Meadow Pattern
+#-------------------------------
+[VIVILLON,9]
+FormName = Modern Pattern
+#-------------------------------
+[VIVILLON,10]
+FormName = Monsoon Pattern
+#-------------------------------
+[VIVILLON,11]
+FormName = Ocean Pattern
+#-------------------------------
+[VIVILLON,12]
+FormName = Polar Pattern
+#-------------------------------
+[VIVILLON,13]
+FormName = River Pattern
+#-------------------------------
+[VIVILLON,14]
+FormName = Sandstorm Pattern
+#-------------------------------
+[VIVILLON,15]
+FormName = Savanna Pattern
+#-------------------------------
+[VIVILLON,16]
+FormName = Sun Pattern
+#-------------------------------
+[VIVILLON,17]
+FormName = Tundra Pattern
+#-------------------------------
+[VIVILLON,18]
+FormName = Fancy Pattern
+#-------------------------------
+[VIVILLON,19]
+FormName = Poké Ball Pattern
+#-------------------------------
+[FLABEBE,1]
+FormName = Yellow Flower
+#-------------------------------
+[FLABEBE,2]
+FormName = Orange Flower
+#-------------------------------
+[FLABEBE,3]
+FormName = Blue Flower
+#-------------------------------
+[FLABEBE,4]
+FormName = White Flower
+#-------------------------------
+[FLOETTE,1]
+FormName = Yellow Flower
+#-------------------------------
+[FLOETTE,2]
+FormName = Orange Flower
+#-------------------------------
+[FLOETTE,3]
+FormName = Blue Flower
+#-------------------------------
+[FLOETTE,4]
+FormName = White Flower
+#-------------------------------
+[FLOETTE,5]
+FormName = Eternal Flower
+BaseStats = 74,65,67,92,125,128
+BaseEXP = 243
+Moves = 1,TACKLE,1,VINEWHIP,1,FAIRYWIND,6,FAIRYWIND,10,LUCKYCHANT,15,RAZORLEAF,20,WISH,25,MAGICALLEAF,27,GRASSYTERRAIN,33,PETALBLIZZARD,38,AROMATHERAPY,43,MISTYTERRAIN,46,MOONBLAST,50,LIGHTOFRUIN,51,PETALDANCE,58,SOLARBEAM
+Compatibility = Undiscovered
+Pokedex = The flower it's holding can no longer be found blooming anywhere. It's also thought to contain terrifying power.
+Evolutions = FLORGES,None,
+#-------------------------------
+[FLORGES,1]
+FormName = Yellow Flower
+#-------------------------------
+[FLORGES,2]
+FormName = Orange Flower
+#-------------------------------
+[FLORGES,3]
+FormName = Blue Flower
+#-------------------------------
+[FLORGES,4]
+FormName = White Flower
+#-------------------------------
+[FURFROU,1]
+FormName = Heart Trim
+#-------------------------------
+[FURFROU,2]
+FormName = Star Trim
+#-------------------------------
+[FURFROU,3]
+FormName = Diamond Trim
+#-------------------------------
+[FURFROU,4]
+FormName = Debutante Trim
+#-------------------------------
+[FURFROU,5]
+FormName = Matron Trim
+#-------------------------------
+[FURFROU,6]
+FormName = Dandy Trim
+#-------------------------------
+[FURFROU,7]
+FormName = La Reine Trim
+#-------------------------------
+[FURFROU,8]
+FormName = Kabuki Trim
+#-------------------------------
+[FURFROU,9]
+FormName = Pharaoh Trim
+#-------------------------------
+[MEOWSTIC,1]
+FormName = Female
+HiddenAbility = COMPETITIVE
+Moves = 1,STOREDPOWER,1,MEFIRST,1,MAGICALLEAF,1,SCRATCH,1,LEER,1,COVET,1,CONFUSION,5,COVET,9,CONFUSION,13,LIGHTSCREEN,17,PSYBEAM,19,FAKEOUT,22,DISARMINGVOICE,25,PSYSHOCK,28,CHARGEBEAM,31,SHADOWBALL,35,EXTRASENSORY,40,PSYCHIC,43,ROLEPLAY,45,SIGNALBEAM,48,SUCKERPUNCH,50,FUTURESIGHT,53,STOREDPOWER
+Color = White
+#-------------------------------
+[AEGISLASH,1]
+FormName = Blade Forme
+BaseStats = 60,150,50,60,150,50
+EffortPoints = 0,2,0,0,1,0
+#-------------------------------
+[PUMPKABOO,1]
+FormName = Average Size
+BaseStats = 49,66,70,51,44,55
+HiddenAbility = INSOMNIA
+Height = 0.4
+Weight = 5.0
+#-------------------------------
+[PUMPKABOO,2]
+FormName = Large Size
+BaseStats = 54,66,70,46,44,55
+Height = 0.5
+Weight = 7.5
+#-------------------------------
+[PUMPKABOO,3]
+FormName = Super Size
+BaseStats = 59,66,70,41,44,55
+HiddenAbility = INSOMNIA
+Height = 0.8
+Weight = 15.0
+WildItemCommon = MIRACLESEED
+WildItemUncommon = MIRACLESEED
+WildItemRare = MIRACLESEED
+#-------------------------------
+[GOURGEIST,1]
+FormName = Average Size
+BaseStats = 65,90,122,84,58,75
+HiddenAbility = INSOMNIA
+Height = 0.9
+Weight = 12.5
+#-------------------------------
+[GOURGEIST,2]
+FormName = Large Size
+BaseStats = 75,95,122,69,58,75
+Height = 1.1
+Weight = 14.0
+#-------------------------------
+[GOURGEIST,3]
+FormName = Super Size
+BaseStats = 85,100,122,54,58,75
+HiddenAbility = INSOMNIA
+Height = 1.7
+Weight = 39.0
+WildItemCommon = MIRACLESEED
+WildItemUncommon = MIRACLESEED
+WildItemRare = MIRACLESEED
+#-------------------------------
+[XERNEAS,1]
+FormName = Active Mode
+#-------------------------------
+[ZYGARDE,1]
+FormName = 10% Forme
+BaseStats = 54,100,71,115,61,85
+Height = 1.2
+Weight = 33.5
+Color = Black
+Shape = Quadruped
+Pokedex = This is Zygarde when about 10% of its pieces have been assembled. It leaps at its opponent's chest and sinks its sharp fangs into them.
+Generation = 7
+#-------------------------------
+[ZYGARDE,2]
+FormName = Complete Forme
+BaseStats = 216,100,121,85,91,95
+Abilities = POWERCONSTRUCT
+Height = 4.5
+Weight = 610.0
+Color = Black
+Shape = BipedalTail
+Pokedex = This is Zygarde's perfected form. From the orifice on its chest, it radiates high-powered energy that eliminates everything.
+Generation = 7
+#-------------------------------
+[ZYGARDE,3]
+PokedexForm = 2
+BaseStats = 216,100,121,85,91,95
+Abilities = POWERCONSTRUCT
+Height = 4.5
+Weight = 610.0
+Color = Black
+Shape = BipedalTail
+#-------------------------------
+[DIANCIE,1]
+FormName = Mega Diancie
+MegaStone = DIANCITE
+BaseStats = 50,160,110,110,160,110
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+Height = 1.1
+Weight = 27.8
+#-------------------------------
+[HOOPA,1]
+FormName = Hoopa Unbound
+Type1 = PSYCHIC
+Type2 = DARK
+BaseStats = 80,160,60,80,170,130
+Moves = 1,HYPERSPACEFURY,1,TRICK,1,DESTINYBOND,1,ALLYSWITCH,1,CONFUSION,6,ASTONISH,10,MAGICCOAT,15,LIGHTSCREEN,19,PSYBEAM,25,SKILLSWAP,29,POWERSPLIT,29,GUARDSPLIT,46,KNOCKOFF,50,WONDERROOM,50,TRICKROOM,55,DARKPULSE,75,PSYCHIC,85,HYPERSPACEFURY
+Height = 6.5
+Weight = 490.0
+Shape = BipedalTail
+#-------------------------------
+[ORICORIO,1]
+FormName = Pom-Pom Style
+Type1 = ELECTRIC
+Type2 = FLYING
+Color = Yellow
+Pokedex = It creates an electric charge by rubbing its feathers together. It dances over to its enemies and delivers shocking electrical punches.
+#-------------------------------
+[ORICORIO,2]
+FormName = Pa'u Style
+Type1 = PSYCHIC
+Type2 = FLYING
+Color = Pink
+Pokedex = This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.
+#-------------------------------
+[ORICORIO,3]
+FormName = Sensu Style
+Type1 = GHOST
+Type2 = FLYING
+Color = Purple
+Pokedex = It summons the dead with its dreamy dancing. From their malice, it draws power with which to curse its enemies.
+#-------------------------------
+[ROCKRUFF,2]
+Abilities = OWNTEMPO
+HiddenAbility = OWNTEMPO
+Evolutions = LYCANROC,LevelEvening,25
+#-------------------------------
+[LYCANROC,1]
+FormName = Midnight Form
+BaseStats = 85,115,75,82,55,75
+Abilities = KEENEYE,VITALSPIRIT
+HiddenAbility = NOGUARD
+Moves = 0,COUNTER,1,COUNTER,1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+TutorMoves = ATTRACT,BRICKBREAK,BULKUP,CONFIDE,COVET,DOUBLETEAM,DUALCHOP,EARTHPOWER,ECHOEDVOICE,ENDEAVOR,FACADE,FIREPUNCH,FOCUSPUNCH,FOULPLAY,FRUSTRATION,HIDDENPOWER,HYPERVOICE,IRONDEFENSE,IRONHEAD,IRONTAIL,LASERFOCUS,LASTRESORT,OUTRAGE,PROTECT,REST,RETURN,ROAR,ROCKPOLISH,ROCKSLIDE,ROCKTOMB,ROUND,SLEEPTALK,SNARL,SNORE,STEALTHROCK,STOMPINGTANTRUM,STONEEDGE,SUBSTITUTE,SWAGGER,SWORDSDANCE,TAUNT,THROATCHOP,THUNDERPUNCH,TOXIC,UPROAR,ZENHEADBUTT
+Height = 1.1
+Color = Red
+Shape = BipedalTail
+Pokedex = It goads its enemies into attacking, withstands the hits, and in return, delivers a headbutt, crushing their bones with its rocky mane.
+#-------------------------------
+[LYCANROC,2]
+FormName = Dusk Form
+BaseStats = 75,117,65,110,55,65
+Abilities = TOUGHCLAWS
+HiddenAbility = TOUGHCLAWS
+Moves = 0,THRASH,1,THRASH,1,ACCELEROCK,1,COUNTER,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+TutorMoves = ATTRACT,BRICKBREAK,BULKUP,CONFIDE,COVET,DOUBLETEAM,DRILLRUN,EARTHPOWER,ECHOEDVOICE,ENDEAVOR,FACADE,FRUSTRATION,HIDDENPOWER,HYPERVOICE,IRONDEFENSE,IRONHEAD,IRONTAIL,LASTRESORT,OUTRAGE,PROTECT,REST,RETURN,ROAR,ROCKPOLISH,ROCKSLIDE,ROCKTOMB,ROUND,SLEEPTALK,SNARL,SNORE,STEALTHROCK,STOMPINGTANTRUM,STONEEDGE,SUBSTITUTE,SWAGGER,SWORDSDANCE,TAUNT,TOXIC,ZENHEADBUTT
+Pokedex = Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.
+#-------------------------------
+[WISHIWASHI,1]
+FormName = School Form
+BaseStats = 45,140,130,30,140,135
+Height = 8.2
+Weight = 78.6
+Shape = MultiBody
+Pokedex = Weak Wishiwashi school together to concentrate their power. Their united force makes them the demon of the sea, feared near and far.
+#-------------------------------
+[SILVALLY,1]
+FormName = Type: Fighting
+Type1 = FIGHTING
+#-------------------------------
+[SILVALLY,2]
+FormName = Type: Flying
+Type1 = FLYING
+#-------------------------------
+[SILVALLY,3]
+FormName = Type: Poison
+Type1 = POISON
+#-------------------------------
+[SILVALLY,4]
+FormName = Type: Ground
+Type1 = GROUND
+#-------------------------------
+[SILVALLY,5]
+FormName = Type: Rock
+Type1 = ROCK
+#-------------------------------
+[SILVALLY,6]
+FormName = Type: Bug
+Type1 = BUG
+#-------------------------------
+[SILVALLY,7]
+FormName = Type: Ghost
+Type1 = GHOST
+#-------------------------------
+[SILVALLY,8]
+FormName = Type: Steel
+Type1 = STEEL
+#-------------------------------
+[SILVALLY,9]
+FormName = Type: Unknown
+Type1 = QMARKS
+#-------------------------------
+[SILVALLY,10]
+FormName = Type: Fire
+Type1 = FIRE
+#-------------------------------
+[SILVALLY,11]
+FormName = Type: Water
+Type1 = WATER
+#-------------------------------
+[SILVALLY,12]
+FormName = Type: Grass
+Type1 = GRASS
+#-------------------------------
+[SILVALLY,13]
+FormName = Type: Electric
+Type1 = ELECTRIC
+#-------------------------------
+[SILVALLY,14]
+FormName = Type: Psychic
+Type1 = PSYCHIC
+#-------------------------------
+[SILVALLY,15]
+FormName = Type: Ice
+Type1 = ICE
+#-------------------------------
+[SILVALLY,16]
+FormName = Type: Dragon
+Type1 = DRAGON
+TutorMoves = AERIALACE,CONFIDE,DEFOG,DOUBLETEAM,DRACOMETEOR,DRAGONCLAW,EXPLOSION,FACADE,FLAMECHARGE,FLAMETHROWER,FLASHCANNON,FRUSTRATION,GIGAIMPACT,GRASSPLEDGE,HAIL,HEATWAVE,HIDDENPOWER,HYPERBEAM,HYPERVOICE,ICEBEAM,ICYWIND,IRONDEFENSE,IRONHEAD,LASERFOCUS,LASTRESORT,MAGICCOAT,OUTRAGE,PAYBACK,PROTECT,RAINDANCE,REST,RETURN,ROAR,ROCKSLIDE,ROUND,SANDSTORM,SHADOWBALL,SHADOWCLAW,SIGNALBEAM,SLEEPTALK,SNARL,SNORE,STEELWING,SUBSTITUTE,SUNNYDAY,SURF,SWAGGER,SWORDSDANCE,TAILWIND,THUNDERBOLT,THUNDERWAVE,TOXIC,UTURN,WORKUP,XSCISSOR,ZENHEADBUTT
+#-------------------------------
+[SILVALLY,17]
+FormName = Type: Dark
+Type1 = DARK
+#-------------------------------
+[SILVALLY,18]
+FormName = Type: Fairy
+Type1 = FAIRY
+#-------------------------------
+[MINIOR,7]
+FormName = Red Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Red
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MINIOR,8]
+FormName = Orange Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Red
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MINIOR,9]
+FormName = Yellow Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Yellow
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MINIOR,10]
+FormName = Green Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Green
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MINIOR,11]
+FormName = Blue Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Blue
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MINIOR,12]
+FormName = Indigo Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Blue
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MINIOR,13]
+FormName = Violet Core
+BaseStats = 60,100,60,120,100,60
+EffortPoints = 0,1,0,0,1,0
+Weight = 0.3
+Color = Purple
+Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
+#-------------------------------
+[MIMIKYU,1]
+FormName = Busted Form
+Pokedex = Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.
+#-------------------------------
+[NECROZMA,1]
+FormName = Dusk Mane
+Type1 = PSYCHIC
+Type2 = STEEL
+BaseStats = 97,157,127,77,113,109
+EffortPoints = 0,3,0,0,0,0
+Height = 3.8
+Weight = 460.0
+Color = Yellow
+Shape = Quadruped
+Pokedex = This is Necrozma's form while it's absorbing the power of Solgaleo, making it extremely ferocious and impossible to control.
+#-------------------------------
+[NECROZMA,2]
+FormName = Dawn Wings
+Type1 = PSYCHIC
+Type2 = GHOST
+BaseStats = 97,113,109,77,157,127
+EffortPoints = 0,0,0,0,3,0
+Height = 4.2
+Weight = 350.0
+Color = Blue
+Pokedex = Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.
+#-------------------------------
+[NECROZMA,3]
+FormName = Ultra Necrozma
+Type1 = PSYCHIC
+Type2 = DRAGON
+BaseStats = 97,167,97,129,167,97
+EffortPoints = 0,1,0,1,1,0
+Abilities = NEUROFORCE
+Height = 7.5
+Color = Yellow
+Pokedex = The light pouring out from all over its body affects living things and nature, impacting them in various ways.
+#-------------------------------
+[NECROZMA,4]
+PokedexForm = 3
+Type1 = PSYCHIC
+Type2 = DRAGON
+BaseStats = 97,167,97,129,167,97
+EffortPoints = 0,1,0,1,1,0
+Abilities = NEUROFORCE
+Height = 7.5
+Color = Yellow
+#-------------------------------
+[MAGEARNA,1]
+FormName = Original Color
+Color = Red
+Pokedex = This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.
